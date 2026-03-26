@@ -1,3 +1,1 @@
-Download and install the ultralytics package for using yolo 
-
-pip install ultralytics
+conda env create -f cellcount.yml
